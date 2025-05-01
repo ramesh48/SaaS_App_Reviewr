@@ -1,0 +1,482 @@
+[
+    {
+        "company_name": "CodeWave",
+        "Reviews": [
+            {
+                "title": "Very Satisfied",
+                "description": "I'm very happy with the results this product delivers.",
+                "date": "2023-07-08",
+                "additional_info": {
+                    "reviewer_name": "George Lucas",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Average Experience",
+                "description": "The product is decent, but nothing extraordinary.",
+                "date": "2023-08-14",
+                "additional_info": {
+                    "reviewer_name": "Hannah Montana",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+ {
+        "company_name": "TechCorp",
+        "Reviews": [
+            {
+                "title": "Excellent Tool!",
+                "description": "This tool has streamlined our workflow significantly.",
+                "date": "2023-01-10",
+                "additional_info": {
+                    "reviewer_name": "Alice Johnson",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Good but Expensive",
+                "description": "The product works well, but the pricing is a bit steep.",
+                "date": "2023-02-15",
+                "additional_info": {
+                    "reviewer_name": "Bob Smith",
+                    "rating": 4
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "DataFlow",
+        "Reviews": [
+            {
+                "title": "Highly Recommended",
+                "description": "We've seen a huge improvement in efficiency.",
+                "date": "2023-03-05",
+                "additional_info": {
+                    "reviewer_name": "Charlie Brown",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Decent Product",
+                "description": "It's okay, but there are better options out there.",
+                "date": "2023-04-20",
+                "additional_info": {
+                    "reviewer_name": "Diana Prince",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "CloudNet",
+        "Reviews": [
+            {
+                "title": "Amazing Support",
+                "description": "Their customer support is top-notch.",
+                "date": "2023-05-12",
+                "additional_info": {
+                    "reviewer_name": "Ethan Hunt",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Needs Updates",
+                "description": "The product works, but it needs more frequent updates.",
+                "date": "2023-06-30",
+                "additional_info": {
+                    "reviewer_name": "Fiona Gallagher",
+                    "rating": 4
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "AppForge",
+        "Reviews": [
+            {
+                "title": "Fantastic!",
+                "description": "This app has exceeded my expectations.",
+                "date": "2023-09-22",
+                "additional_info": {
+                    "reviewer_name": "Ian Malcolm",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Could Be Better",
+                "description": "It's functional, but there's room for improvement.",
+                "date": "2023-10-17",
+                "additional_info": {
+                    "reviewer_name": "Julia Roberts",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "WebPulse",
+        "Reviews": [
+            {
+                "title": "Great Service",
+                "description": "Their service is reliable and fast.",
+                "date": "2023-11-03",
+                "additional_info": {
+                    "reviewer_name": "Kevin Hart",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Not Worth It",
+                "description": "The product doesn't justify its cost.",
+                "date": "2023-12-01",
+                "additional_info": {
+                    "reviewer_name": "Linda Evans",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "SoftLink",
+        "Reviews": [
+            {
+                "title": "Impressive Features",
+                "description": "The features are robust and easy to use.",
+                "date": "2023-01-25",
+                "additional_info": {
+                    "reviewer_name": "Michael Scott",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Meh",
+                "description": "It's just okay. Nothing special.",
+                "date": "2023-02-28",
+                "additional_info": {
+                    "reviewer_name": "Nina Simone",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "DevOpsHub",
+        "Reviews": [
+            {
+                "title": "Best in Class",
+                "description": "This is one of the best tools we've used.",
+                "date": "2023-03-15",
+                "additional_info": {
+                    "reviewer_name": "Oscar Wilde",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Disappointing",
+                "description": "The product didn't meet our expectations.",
+                "date": "2023-04-22",
+                "additional_info": {
+                    "reviewer_name": "Peter Parker",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "NetSecure",
+        "Reviews": [
+            {
+                "title": "Top Security",
+                "description": "Our data has never been safer.",
+                "date": "2023-05-10",
+                "additional_info": {
+                    "reviewer_name": "Quincy Jones",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Overhyped",
+                "description": "The product is good, but not as great as advertised.",
+                "date": "2023-06-18",
+                "additional_info": {
+                    "reviewer_name": "Rachel Green",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "CloudSync",
+        "Reviews": [
+            {
+                "title": "Effortless Integration",
+                "description": "Integration was seamless and quick.",
+                "date": "2023-07-05",
+                "additional_info": {
+                    "reviewer_name": "Samuel Jackson",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "So-so",
+                "description": "It gets the job done, but that's about it.",
+                "date": "2023-08-22",
+                "additional_info": {
+                    "reviewer_name": "Tina Turner",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "DataVault",
+        "Reviews": [
+            {
+                "title": "Reliable Storage",
+                "description": "Our data storage needs are fully met.",
+                "date": "2023-09-12",
+                "additional_info": {
+                    "reviewer_name": "Uma Thurman",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Needs Improvement",
+                "description": "The interface could be more user-friendly.",
+                "date": "2023-10-25",
+                "additional_info": {
+                    "reviewer_name": "Victor Hugo",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "CodeCraft",
+        "Reviews": [
+            {
+                "title": "Innovative Solution",
+                "description": "This solution has brought innovation to our processes.",
+                "date": "2023-11-05",
+                "additional_info": {
+                    "reviewer_name": "Walter White",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Underwhelming",
+                "description": "It's functional, but lacks key features.",
+                "date": "2023-12-15",
+                "additional_info": {
+                    "reviewer_name": "Xena Warrior",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "TechWave",
+        "Reviews": [
+            {
+                "title": "Solid Performance",
+                "description": "Performance has been consistent and reliable.",
+                "date": "2023-01-30",
+                "additional_info": {
+                    "reviewer_name": "Yoda Master",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Just Okay",
+                "description": "It's fine, but not exceptional.",
+                "date": "2023-02-20",
+                "additional_info": {
+                    "reviewer_name": "Zelda Fitzgerald",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "CloudBridge",
+        "Reviews": [
+            {
+                "title": "Perfect Fit",
+                "description": "This product fits our needs perfectly.",
+                "date": "2023-03-18",
+                "additional_info": {
+                    "reviewer_name": "Adam Smith",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Barely Functional",
+                "description": "It works, but barely.",
+                "date": "2023-04-10",
+                "additional_info": {
+                    "reviewer_name": "Betty White",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "NetFlow",
+        "Reviews": [
+            {
+                "title": "Outstanding!",
+                "description": "This product is outstanding in every way.",
+                "date": "2023-05-22",
+                "additional_info": {
+                    "reviewer_name": "Chris Evans",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Not Great",
+                "description": "The product is lacking in several areas.",
+                "date": "2023-06-14",
+                "additional_info": {
+                    "reviewer_name": "Dwayne Johnson",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "SoftSync",
+        "Reviews": [
+            {
+                "title": "Highly Effective",
+                "description": "This tool has proven to be highly effective.",
+                "date": "2023-07-28",
+                "additional_info": {
+                    "reviewer_name": "Edward Norton",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Mediocre",
+                "description": "It's average at best.",
+                "date": "2023-08-19",
+                "additional_info": {
+                    "reviewer_name": "Frank Sinatra",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "DevNet",
+        "Reviews": [
+            {
+                "title": "Game-Changing",
+                "description": "This product has changed the game for us.",
+                "date": "2023-09-07",
+                "additional_info": {
+                    "reviewer_name": "Grace Kelly",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Not Impressed",
+                "description": "We were not impressed with the results.",
+                "date": "2023-10-12",
+                "additional_info": {
+                    "reviewer_name": "Harold Finch",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "CloudForge",
+        "Reviews": [
+            {
+                "title": "Exceptional Quality",
+                "description": "The quality of this product is exceptional.",
+                "date": "2023-11-21",
+                "additional_info": {
+                    "reviewer_name": "Iris West",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Subpar",
+                "description": "The product is subpar compared to competitors.",
+                "date": "2023-12-08",
+                "additional_info": {
+                    "reviewer_name": "Jack Sparrow",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "Capterra"
+    },
+    {
+        "company_name": "DataWave",
+        "Reviews": [
+            {
+                "title": "Excellent Value",
+                "description": "This product offers excellent value for money.",
+                "date": "2023-01-14",
+                "additional_info": {
+                    "reviewer_name": "Karen Gillan",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Needs Work",
+                "description": "There are some issues that need addressing.",
+                "date": "2023-02-25",
+                "additional_info": {
+                    "reviewer_name": "Leo Messi",
+                    "rating": 3
+                }
+            }
+        ],
+        "Source": "G2"
+    },
+    {
+        "company_name": "CodePulse",
+        "Reviews": [
+            {
+                "title": "Superb!",
+                "description": "This product is superb in every aspect.",
+                "date": "2023-03-30",
+                "additional_info": {
+                    "reviewer_name": "Megan Fox",
+                    "rating": 5
+                }
+            },
+            {
+                "title": "Disappointing Results",
+                "description": "The results were disappointing overall.",
+                "date": "2023-04-18",
+                "additional_info": {
+                    "reviewer_name": "Nathan Drake",
+                    "rating": 2
+                }
+            }
+        ],
+        "Source": "Capterra"
+    }
+]
